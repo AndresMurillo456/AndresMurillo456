@@ -1,7 +1,7 @@
 AndresMurillo456.github.io
 
 <!--
-**AndresMurillo456/AndresMurillo456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AndresMurillo456/AndresMurillo456.githun.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
